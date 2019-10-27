@@ -7,7 +7,7 @@ Python shines is web development. Python offers many frameworks from which to ch
 $ pip install Django==2.2.6
 ```
 ```
-$ django-admin startproject mysite
+$ python -m django --version
 ```
 
 **DJANGO MVC - MVT Pattern**
